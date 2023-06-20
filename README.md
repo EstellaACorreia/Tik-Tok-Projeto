@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [https://tik-tok---jornada-3d4c1.web.app) to view it in your browser.
+Open [https://tik-tok---jornada-3d4c1.web.app/](https://tik-tok---jornada-3d4c1.web.app/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
